@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\buoi3\buoi4\buoi4\bin\Debug\buoi4.exe.config
+E:\LuuDuLieuSinhVien\buoi3\buoi4\buoi4\bin\Debug\buoi4.exe
+E:\LuuDuLieuSinhVien\buoi3\buoi4\buoi4\bin\Debug\buoi4.pdb
+E:\LuuDuLieuSinhVien\buoi3\buoi4\buoi4\obj\Debug\buoi4.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\buoi3\buoi4\buoi4\obj\Debug\buoi4.exe
+E:\LuuDuLieuSinhVien\buoi3\buoi4\buoi4\obj\Debug\buoi4.pdb
