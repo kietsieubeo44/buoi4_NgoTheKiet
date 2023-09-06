@@ -1,0 +1,38 @@
+-Lop cha-
+ToaDo
+
+ten: String
+x: float y: float -
++ to String(): String
+
+<<constructor>>>
++ ToaDo (float, float)
++ ToaDo()
+
+<<property get» 
++ getX(): float
++ getY(): float
+
+<<property set>
++ setX(float): void 
++ sety (float): void
+
+-Lop con-
+
+HinhTron
+
+tam: ToaDo
+banKinh: double
++ + tinhChuVi(): double tinhDienTich(): double
+
+<<constructor>>>
++ HinhTron(ToaDo, double) 
++ HinhTron()
+
+<<property get>
++getTam(): ToaDo 
++getBankinh(): double
+
+<<property set>
++ setTam(ToaDo): void 
++ setBanKinh(double): void
